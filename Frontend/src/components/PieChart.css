@@ -1,0 +1,20 @@
+/* src/components/PieChart.css */
+.chart-container {
+    width: 80%; /* Adjust size to fit your design */
+    height: 400px; /* Set the height you want */
+    margin: 20px auto;
+  }
+  
+  .chart-loading {
+    text-align: center;
+    font-size: 18px;
+    color: #888;
+  }
+  
+  .chart-error {
+    text-align: center;
+    font-size: 18px;
+    color: red;
+    margin-top: 20px;
+  }
+  
